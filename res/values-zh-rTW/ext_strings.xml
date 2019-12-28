@@ -16,9 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="recommendation_summary">默认的打印服务提供基本选项。此打印机的其他选项可以从另一个打印服务中找到。</string>
-    <string name="recommendations_heading">建议的服务</string>
-    <string name="recommendation_install_summary">选择以安装</string>
-    <string name="recommendation_enable_summary">选择以启用</string>
-    <string name="recommendation_manage">管理服务</string>
+    <string name="recommendation_summary">預設列印服務提供基本選項。從其他列印服務或可以取得此列印機的其他選項。</string>
+    <string name="recommendations_heading">推薦服務</string>
+    <string name="recommendation_install_summary">選擇以安裝</string>
+    <string name="recommendation_enable_summary">選擇以啟用</string>
+    <string name="recommendation_manage">管理列印服務</string>
 </resources>

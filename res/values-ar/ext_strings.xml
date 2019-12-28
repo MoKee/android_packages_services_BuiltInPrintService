@@ -16,12 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="wifi_direct_printing">Wi-Fi Doğrudan baskı</string>
-    <string name="recommendation_summary">Varsayılan Baskı Hizmeti temel seçenekler sunar. Bu yazıcının diğer seçenekleri başka bir baskı servisinden edinilebilir.</string>
-    <string name="recommendations_heading">Önerilen servisler</string>
-    <string name="recommendation_install_summary">Yüklemek için seçin</string>
-    <string name="recommendation_enable_summary">Etkinleştirmek için seçin</string>
-    <string name="recommendation_manage">Servisleri yönet</string>
-    <string name="connections">Bağlantılar</string>
-    <string name="fix">Düzelt</string>
+    <string name="recommendation_summary">توفر خدمة الطباعة الافتراضية الخيارات الأساسية. قد تتوفر خيارات أخرى لهذه الطابعة من خدمة طباعة أخرى.</string>
+    <string name="recommendations_heading">الخدمات الموصى بها</string>
+    <string name="recommendation_install_summary">حدد للتثبيت</string>
+    <string name="recommendation_enable_summary">حدد للتمكين</string>
+    <string name="recommendation_manage">إدارة الخدمات</string>
 </resources>
