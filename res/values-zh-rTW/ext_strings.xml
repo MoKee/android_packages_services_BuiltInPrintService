@@ -16,9 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wifi_direct_printing">Wi-Fi 直連列印</string>
     <string name="recommendation_summary">預設列印服務提供基本選項。從其他列印服務或可以取得此列印機的其他選項。</string>
     <string name="recommendations_heading">推薦服務</string>
     <string name="recommendation_install_summary">選擇以安裝</string>
     <string name="recommendation_enable_summary">選擇以啟用</string>
     <string name="recommendation_manage">管理列印服務</string>
+    <string name="connections">連接</string>
+    <string name="wifi_direct_permission_rationale">預設列印服務需要位置權限以存取 Wi-Fi 直連列印機，因為您可以從附近的裝置推斷出您的位置。</string>
+    <string name="fix">修復</string>
 </resources>

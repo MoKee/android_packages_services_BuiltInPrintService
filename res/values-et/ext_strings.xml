@@ -16,9 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wifi_direct_printing">WiFi Direct printimine</string>
     <string name="recommendation_summary">Printimise vaiketeenus pakub põhilisi valikuid. Teisi valikuid selle printeri jaoks võib leida mõnelt teiselt printimise teenuselt.</string>
     <string name="recommendations_heading">Soovitatud teenused</string>
     <string name="recommendation_install_summary">Vali installimiseks</string>
     <string name="recommendation_enable_summary">Vali lubamiseks</string>
     <string name="recommendation_manage">Halda teenuseid</string>
+    <string name="connections">Ühendused</string>
+    <string name="wifi_direct_permission_rationale">Vaikeprintimisteenus vajab Wi-Fi Direct-printeritele juurdepääsu saamiseks asukoha õigusi, kuna teie asukoha saab läheduses asuvatest seadmetest järeldada.</string>
+    <string name="fix">Paranda</string>
 </resources>
