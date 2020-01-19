@@ -17,12 +17,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="wifi_direct_printing">Stampa via Wi-Fi Direct</string>
-    <string name="recommendation_summary">Il servizio di stampa predefinito fornisce opzioni di base. Altre opzioni per questa stampante potrebbero essere disponibili in un altro servizio di stampa.</string>
+    <string name="recommendation_summary">Il servizio di stampa predefinito fornisce opzioni di base. Altre opzioni per questa stampante possono essere disponibili da un altro servizio di stampa.</string>
     <string name="recommendations_heading">Servizi consigliati</string>
     <string name="recommendation_install_summary">Seleziona per installare</string>
     <string name="recommendation_enable_summary">Seleziona per attivare</string>
     <string name="recommendation_manage">Gestisci servizi</string>
     <string name="connections">Connessioni</string>
     <string name="wifi_direct_permission_rationale">Il servizio di stampa predefinito ha bisogno di permessi di localizzazione per accedere alle stampanti Wi-Fi Direct perché la tua posizione può essere determinata dai dispositivi vicini.</string>
-    <string name="fix">Correggi</string>
+    <string name="fix">Risolvi</string>
 </resources>

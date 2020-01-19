@@ -16,14 +16,14 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="wifi_direct_printing">Impressão via Wi-Fi Direct</string>
-    <string name="recommendation_summary">O serviço de impressão padrão fornece opções básicas. Outras opções para esta impressora podem estar disponíveis em outro serviço de impressão.</string>
+    <string name="wifi_direct_printing">Impressão Wi-Fi Direct</string>
+    <string name="recommendation_summary">O Serviço de Impressão Predefinido fornece opções básicas. Podem estar disponíveis outras opções para esta impressora com outro serviço de impressão.</string>
     <string name="recommendations_heading">Serviços recomendados</string>
     <string name="recommendation_install_summary">Selecione para instalar</string>
     <string name="recommendation_enable_summary">Selecione para ativar</string>
-    <string name="recommendation_manage">Gerenciar serviços</string>
-    <string name="connections">Conexões</string>
-    <string name="wifi_direct_permission_rationale">O serviço de impressão padrão precisa de permissões de localização
-        para acessar impressoras Wi-Fi Direct para detectar a localização das impressoras através de dispositivos próximos.</string>
-    <string name="fix">Corrigir</string>
+    <string name="recommendation_manage">Gerir serviços</string>
+    <string name="connections">Ligações</string>
+    <string name="wifi_direct_permission_rationale">O Serviço de Impressão Predefinido precisa de permissões
+        para aceder às impressoras Wi-Fi Direct porque a sua localização pode ser deduzida através dos dispositivos próximos.</string>
+    <string name="fix">Resolver</string>
 </resources>

@@ -16,9 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wifi_direct_printing">طباعة عبر Wi-Fi مباشر</string>
     <string name="recommendation_summary">توفر خدمة الطباعة الافتراضية الخيارات الأساسية. قد تتوفر خيارات أخرى لهذه الطابعة من خدمة طباعة أخرى.</string>
     <string name="recommendations_heading">الخدمات الموصى بها</string>
     <string name="recommendation_install_summary">حدد للتثبيت</string>
-    <string name="recommendation_enable_summary">حدد للتمكين</string>
+    <string name="recommendation_enable_summary">حدد للتفعيل</string>
     <string name="recommendation_manage">إدارة الخدمات</string>
+    <string name="connections">الإتصالات</string>
+    <string name="wifi_direct_permission_rationale">تحتاج خدمة الطباعة الافتراضية إلى أذونات الموقع        للوصول إلى الطباعة عبر Wi-Fi مباشر لأنه يمكن معرفة موقعك من الأجهزة القريبة.</string>
+    <string name="fix">إصلاح</string>
 </resources>
