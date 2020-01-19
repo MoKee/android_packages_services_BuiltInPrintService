@@ -22,8 +22,7 @@
     <string name="recommendation_install_summary">選擇以安裝</string>
     <string name="recommendation_enable_summary">選擇以啟用</string>
     <string name="recommendation_manage">管理列印服務</string>
-    <string name="connections">連線</string>
-    <string name="wifi_direct_permission_rationale">預設列印服務需要位置權限
-        以存取 Wi-Fi 直連列印機，因為您可以從附近的裝置推斷出您的位置。</string>
+    <string name="connections">連接</string>
+    <string name="wifi_direct_permission_rationale">預設列印服務需要位置權限以存取 Wi-Fi 直連列印機，因為您可以從附近的裝置推斷出您的位置。</string>
     <string name="fix">修復</string>
 </resources>

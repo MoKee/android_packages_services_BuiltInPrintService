@@ -23,7 +23,6 @@
     <string name="recommendation_enable_summary">Sélectionner pour activer</string>
     <string name="recommendation_manage">Gérer les services</string>
     <string name="connections">Connexions</string>
-    <string name="wifi_direct_permission_rationale">Le service d\'impression par défaut a besoin des permissions de localisation
-        pour accéder aux imprimantes Wi-Fi Direct car votre emplacement peut être déduit des périphériques proches.</string>
-    <string name="fix">Corriger</string>
+    <string name="wifi_direct_permission_rationale">Le service d\'impression par défaut a besoin des autorisations de localisation pour accéder aux imprimantes Wi-Fi Direct car votre localisation peut être déduite des appareils à proximité.</string>
+    <string name="fix">Réparer</string>
 </resources>

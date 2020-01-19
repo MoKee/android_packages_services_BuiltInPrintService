@@ -16,14 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="wifi_direct_printing">Wi-Fi Direct nyomtatás</string>
+    <string name="wifi_direct_printing">Wi-Fi Direct printing (közvetlen nyomtatás)</string>
     <string name="recommendation_summary">Az Alapértelmezett Nyomtatási Szolgáltatás csak alapfunkciókat kínál. Ennek a nyomtatónak az egyéb funkcióit lehet, más nyomtatási szolgáltatásból érheti el.</string>
     <string name="recommendations_heading">Ajánlott szolgáltatások</string>
     <string name="recommendation_install_summary">A telepítendők kiválasztása</string>
     <string name="recommendation_enable_summary">Az engedélyezendők kiválasztása</string>
-    <string name="recommendation_manage">Szolgáltatásválasztó</string>
-    <string name="connections">Kapcsolatok</string>
-    <string name="wifi_direct_permission_rationale">Az Alapértelmezett Nyomtató Szolgáltatásnak helymeghatározási engedélyre van szüksége
-        hogy Ön elérhesse a közelben található Wi-Fi Direct nyomtatókat.</string>
-    <string name="fix">Javítás</string>
+    <string name="recommendation_manage">Nyomtatási-szolgáltatáskezelő</string>
+    <string name="connections">Csatlakozás szerinti</string>
+    <string name="wifi_direct_permission_rationale">Az Alapértelmezett Nyomtatószolgáltatásnak helymeghatározási engedélyre van szüksége, hogy Ön elérhesse a közelben található Wi-Fi Direct nyomtatókat, mivel a közelben lévő eszközök az ön tartózkodási helyéből tudnak következtetni.</string>
+    <string name="fix">Megerősítés</string>
 </resources>
