@@ -16,9 +16,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="recommendation_summary">Layanan Cetak Bawaan menyediakan opsi dasar. Pilihan lain untuk pencetak ini mungkin tersedia dari layanan cetak lainnya.</string>
-    <string name="recommendations_heading">Layanan yang disarankan</string>
-    <string name="recommendation_install_summary">Pilih untuk memasang</string>
-    <string name="recommendation_enable_summary">Pilih untuk mengaktifkan</string>
-    <string name="recommendation_manage">Kelola layanan</string>
+    <string name="recommendation_summary">Le service d\'impression par défaut fournit des options basiques. D\'autres options pour cette imprimante peuvent être disponibles à partir d\'un autre service d\'impression.</string>
+    <string name="recommendations_heading">Services recommandés</string>
+    <string name="recommendation_install_summary">Sélectionner pour installer</string>
+    <string name="recommendation_enable_summary">Sélectionner pour activer</string>
+    <string name="recommendation_manage">Gérer les services</string>
 </resources>
