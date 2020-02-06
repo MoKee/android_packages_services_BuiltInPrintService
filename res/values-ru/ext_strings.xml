@@ -20,9 +20,9 @@
     <string name="recommendation_summary">Встроенная служба печати предоставляет базовые опции. Другие настройки для этого принтера могут быть доступны из другой службы печати.</string>
     <string name="recommendations_heading">Рекомендуемые службы</string>
     <string name="recommendation_install_summary">Выберите для установки</string>
-    <string name="recommendation_enable_summary">Выберите для включения</string>
+    <string name="recommendation_enable_summary">Выбрать для включения</string>
     <string name="recommendation_manage">Управление службами</string>
     <string name="connections">Соединения</string>
-    <string name="wifi_direct_permission_rationale">Default Print Service needs location permissions to access Wi-Fi Direct printers because your location can be inferred from nearby devices.</string>
+    <string name="wifi_direct_permission_rationale">Чтобы определить Wi-Fi Direct принтеры по близости, службе печати требуется доступ к местоположению вашего устройства.</string>
     <string name="fix">Исправить</string>
 </resources>
