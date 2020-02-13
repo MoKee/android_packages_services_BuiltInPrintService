@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016 The Android Open Source Project
+     Copyright (C) 2020 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,16 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Explain purpose of recommendation fragment [CHAR LIMIT=UNLIMITED] -->
-    <string name="recommendation_summary">The Default Print Service provides basic options. Other options for this printer may be available from another print service.</string>
-    <!-- Heading for services that are not currently installed, but recommended [CHAR LIMIT=UNLIMITED] -->
-    <string name="recommendations_heading">Recommended services</string>
-    <!-- Summary for recommended services that are not installed [CHAR LIMIT=UNLIMITED] -->
-    <string name="recommendation_install_summary">Select to install</string>
-    <!-- Summary for recommended services that are installed [CHAR LIMIT=UNLIMITED] -->
-    <string name="recommendation_enable_summary">Select to enable</string>
-    <!-- Button to allow user to enable/disable installed print services. [CHAR LIMIT=UNLIMITED] -->
-    <string name="recommendation_manage">Manage services</string>
+    <!-- Share-to-print label [CHAR LIMIT=20] -->
+    <string name="print">Print</string>
 </resources>
